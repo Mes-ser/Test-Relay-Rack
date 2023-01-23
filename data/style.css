@@ -1,0 +1,43 @@
+html {
+    font-family: Arial;
+    display: inline-block;
+    margin: 0px auto;
+    text-align: center;
+}
+
+h2 { 
+    font-size: 3.0rem;
+}
+
+p {
+     font-size: 3.0rem;
+}
+
+table {
+    margin: 10px auto;
+    min-width: 30%;
+}
+
+.cell {
+    background-color:lightgrey;
+    border: none;
+    color: black;
+    text-align: center;
+    table-layout: fixed;
+    text-decoration: none;
+    font-size: 16px;
+}
+.cell.active {
+    background-color:lightgreen;
+}
+
+
+.units {
+    font-size: 1.2rem;
+}
+    
+.dht-labels {
+    font-size: 1.5rem;
+    vertical-align:middle;
+    padding-bottom: 15px;
+}

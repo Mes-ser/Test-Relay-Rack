@@ -1,0 +1,8 @@
+Instalacja arduino IDE na dysku np "D:\Arduino"
+Zapodać
+"${env:LOCALAPPDATA}\\Arduino15\\packages\\esp32\\hardware\\esp32\\1.0.4\\**",
+"${env:LOCALAPPDATA}\\Arduino15\\packages\\esp32\\tools\\**"
+
+do c_cpp_properties
+
+a sam folder esp32 do AppData\\Local\\Arduino15\\packages
