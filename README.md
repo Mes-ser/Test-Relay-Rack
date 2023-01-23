@@ -5,6 +5,7 @@ A project to control Test Rack wirelessly via ESP32 and without platform depeden
 - Based on Arduino enviroment
 - Web interface
 - Web files stored in SPIFFS
+- mDNS - Trust me, no one wants to search for IP address ('okon.local' in your browser)
 - Data exchange with use of events (no one wants to refresh page every time)
 - Different reset patterns (Smart Bulbs Manufacures use different on/off patterns to reset their bulbs)
 
