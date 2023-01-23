@@ -1,0 +1,4 @@
+build/
+.vscode/
+spiffs.image
+spiffs_uploads.txt
